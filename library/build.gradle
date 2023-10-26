@@ -1,8 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
 
-group = 'com.github.glebkravchenko'
-version = '0.1.1'
+group = 'com.github.inuker'
 
 android {
     defaultConfig {
