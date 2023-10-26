@@ -1,12 +1,9 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
 
-version = "1.4.0"
 group = 'com.github.glebkravchenko'
 
 android {
-    resourcePrefix "bluetoothkit_"
-
     defaultConfig {
         minSdkVersion 16
         targetSdk 34
