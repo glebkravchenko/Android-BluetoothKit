@@ -8,9 +8,6 @@ android {
         minSdkVersion 16
         targetSdk 34
         compileSdkVersion = 34
-
-        versionCode 1
-        versionName "1.0"
     }
     buildTypes {
         release {
