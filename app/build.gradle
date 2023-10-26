@@ -4,8 +4,8 @@ android {
     defaultConfig {
         applicationId "com.inuker.bluetooth"
         minSdkVersion 21
-        targetSdkVersion 34
-        compileSdk 34
+        targetSdk 34
+        compileSdkVersion = 34
 
         versionCode 1
         versionName "1.0"
